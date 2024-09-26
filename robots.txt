@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uncenefent.github.io/sitemap.uncenefent.gz
+Sitemap: https://uncenefent.github.io/app/sitemap.uncenefent.gz
+Sitemap: https://uncenefent.github.io/assets/sitemap.uncenefent.gz
+Sitemap: https://uncenefent.github.io/css/sitemap.uncenefent.gz
+Sitemap: https://uncenefent.github.io/data/sitemap.uncenefent.gz
+Sitemap: https://uncenefent.github.io/includes/sitemap.uncenefent.gz
+Sitemap: https://uncenefent.github.io/item/sitemap.uncenefent.gz
+Sitemap: https://uncenefent.github.io/src/sitemap.uncenefent.gz
